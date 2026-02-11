@@ -131,7 +131,7 @@ npm install
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Start backend server:
 
